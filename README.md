@@ -29,7 +29,7 @@ Check out my [LinkedIn](https://www.linkedin.com/in/Nordin-shafiq/) for more det
 * Supervisor - Data Science Circle, CAT Reloaded, $\mu$, $Nov \ 2022 - Present$
 
 # Training and Workshops 🚀
-* Huawei Certified ICT Associate Program, National Communications Institute (NTI), $ Jul - Aug \ 2022$
+* Huawei Certified ICT Associate Program, National Communications Institute (NTI), $Jul - Aug \ 2022$
 * Software Engineering Hackathon, Orange Digital Center - Creativa, $\mu$, $Oct \ 29^{th} - Nov \ 4^{th}, 2022$
 * Fundamentals of Deep Learning, IEEE American University in Cairo - NVIDIA, $Nov \ 9^{th} - 10^{th}, 2022$
 * Robotics Winter Training, ITI Mansoura, $Jan \ 29^{th} - Feb \ 9^{th}, 2023$
