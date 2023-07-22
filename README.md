@@ -37,7 +37,7 @@ Check out my [LinkedIn](https://www.linkedin.com/in/Nordin-shafiq/) for more det
 # Key Skills 💻
 * Proficient in Python, Tableau, Predictive Modeling, Artificial Intelligence (AI), data analysis, and statistical analysis.
 * Strong understanding of computer engineering principles, including hardware design, software development, and control systems.
-* Familiarity with programming languages like C/C++, C#, and SQL, as well as Machine Learning algorithms and $\LaTeX$ !
+* Familiarity with programming languages like C/C++, C#, and SQL, as well as artificial intelligence algorithms and $\LaTeX$ !
 
 # Languages 🌎
 * Arabic: Native
