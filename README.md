@@ -16,6 +16,8 @@ Relevant coursework: Data Structures and Algorithms, Object-Oriented Programming
 * Mathematics for Machine Learning Specialization, Coursera, Sep 2022
 * Critical Thinking, LinkedIn, Nov 2021
 
+Check out my [LinkedIn](https://www.linkedin.com/in/Nordin-shafiq/) for more details.
+
 # Experiences 💼
 * Volunteer - Data Science Committee, IEEE Mansoura Computer Society Chapter, MU
     * Learner | Apr - Nov 2022
