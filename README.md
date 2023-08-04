@@ -9,8 +9,6 @@ Bachelor of Engineering, Mansoura University ( $\mu$ ), $2020 - 2025$
 
 Department: Computer and Control Systems
 
-Grade: Excellent
-
 Relevant coursework: Data Structures and Algorithms, Object-Oriented Programming, Database Systems, Computer Networks, Operating Systems, Artificial Intelligence, Machine Learning
 
 # Courses and Certificates 📚
