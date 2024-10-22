@@ -21,16 +21,19 @@ Check out my [LinkedIn](https://www.linkedin.com/in/Nordin-shafiq/) for more det
 
 # Experiences 💼
 * Volunteer - Data Science Committee, IEEE Mansoura Computer Society Chapter, $\mu$
-    * Learner $| \ Apr - Nov \ 2022$
-    * Supervisor $| \ Nov \ 2022 - Present$
+    * Volunteer $| \ Apr \ 2022 - Present$
+    * Supervisor $| \ Nov \ 2022 - Nov \ 2023$
 
-* Supervisor - Data Science Circle, CAT Reloaded, $\mu$, $Nov \ 2022 - Present$
+* Member - Data Science Circle, CAT Reloaded, $\mu$
+    * Member $| \ Nov \ 2022 - Feb \ 2024$
+    * Supervisor $| \ Nov \ 2022 - Nov \ 2023$
 
 # Training and Workshops 🚀
 * Huawei Certified ICT Associate Program, National Communications Institute (NTI), $Jul - Aug \ 2022$
 * Software Engineering Hackathon, Orange Digital Center - Creativa, $\mu$, $Oct \ 29^{th} - Nov \ 4^{th}, 2022$
 * Fundamentals of Deep Learning, IEEE American University in Cairo - NVIDIA, $Nov \ 9^{th} - 10^{th}, 2022$
 * Robotics Winter Training, ITI Mansoura, $Jan \ 29^{th} - Feb \ 9^{th}, 2023$
+* Computer Vision Summer Training, ITI Mansoura, $Jul \ 15^{th} - Sep \ 15^{th}, 2024$
 
 # Key Skills 💻
 * Proficient in Python, Tableau, Predictive Modeling, Artificial Intelligence (AI), data analysis, and statistical analysis.
