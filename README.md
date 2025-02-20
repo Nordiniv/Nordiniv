@@ -2,7 +2,7 @@
 <img align="right" alt="👍🏼" src="like.webp" width="150"/>
 
 
-I am a student of Computer and Control Systems Engineering with a background in Data Science, currently pursuing my Bachelor's degree at Mansoura University in Egypt. While I may not have the opportunity to contribute to cutting-edge research and development at this stage of my career, I am eager to learn and grow in the field of AI and Robotics and am excited about the opportunities that lie ahead.
+I am a student of Computer and Control Systems Engineering with a background in Data Science, currently pursuing my Bachelor's degree at Mansoura University in Egypt. While I may not have the opportunity to contribute to cutting-edge research and development at this stage of my career, I am eager to learn and grow in the field of AI and Fintech and am excited about the opportunities that lie ahead.
 
 # Education 🎓
 Bachelor of Engineering, Mansoura University ( $\mu$ ), $2020 - 2025$
