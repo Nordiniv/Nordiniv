@@ -61,10 +61,4 @@ Mansoura University, Egypt | *2020 – 2025* | **Final Grade: 88.97% (Excellent)
 
 ***
 
-## 📞 Contact
-
-<a href="https://www.linkedin.com/in/nordin-shafiq/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:nordin.shafiq@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
-<a href="https://t.me/nordiniv"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-
 Feel free to reach out if you have any questions or would like to connect!
