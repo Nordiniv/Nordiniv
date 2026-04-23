@@ -1,58 +1,70 @@
-# Hi there, I'm Nordin 👋
+<h1 align="left">Hi, I'm Nordin 👋</h1>
 <img align="right" alt="👍🏼" src="like.webp" width="150"/>
 
+**Aspiring AI Engineer** specializing in Artificial Intelligence and Robotics, with a strong foundation in Machine Learning and Python. Experienced in building AI solutions, automating workflows using frameworks such as PyTorch, LangChain, and HuggingFace, and containerization with Docker. Motivated to apply analytical and engineering skills to complex real-world challenges.
 
-I am a student of Computer and Control Systems Engineering with a background in Data Science, currently pursuing my Bachelor's degree at Mansoura University in Egypt. While I may not have the opportunity to contribute to cutting-edge research and development at this stage of my career, I am eager to learn and grow in the field of AI and Fintech and am excited about the opportunities that lie ahead.
+***
 
-# Education 🎓
-Bachelor of Engineering, Mansoura University ( $\mu$ ), $2020 - 2025$
+## 🎓 Education
 
-Department: Computer and Control Systems
+**Master of Science — Computer Engineering, AI and Robotics**
+University of Padova, Padua, Italy | *Oct 2025 – Present*
+> Core subjects: Machine Learning, Artificial Intelligence, Computer Vision, Deep Learning, Operations Research, Robotics, and Automata.
 
-Relevant coursework: Data Structures and Algorithms, Object-Oriented Programming, Database Systems, Computer Networks, Operating Systems, Artificial Intelligence, Machine Learning
+**Bachelor of Engineering — Computer and Control Systems Engineering**
+Mansoura University, Egypt | *2020 – 2025* | **Final Grade: 88.97% (Excellent)**
+> Advanced Mathematics (ODEs/PDEs, Fourier/Laplace, numerical methods), Probability & Statistics, Linear Algebra & Optimization, Data Science & ML, Embedded Systems, Computer Architecture, and Networks.
 
-# Courses and Certificates 📚
-* Data Analysis Nanodegree, Egypt Forward Initiative – Udacity, $Jul \ 2021 - Jan \ 2022$
-* Business Language Program, Sprints, $Apr \ 2022$
-* Mathematics for Machine Learning Specialization, Coursera, $Sep \ 2022$
-* Critical Thinking, LinkedIn, $Nov \ 2021$
+***
 
-Check out my [LinkedIn](https://www.linkedin.com/in/Nordin-shafiq/) for more details.
+## 💼 Experience
 
-# Experiences 💼
-* Volunteer - Data Science Committee, IEEE Mansoura Computer Society Chapter, $\mu$
-    * Volunteer $| \ Apr \ 2022 - Present$
-    * Supervisor $| \ Nov \ 2022 - Nov \ 2023$
+**IEEE Data Science Committee Volunteer** — Mansoura Computer Society Chapter | *Apr 2022 – Jan 2025*
+- Supervised a 30+ member team, streamlining project workflows and fostering collaboration *(Nov 2022 – Oct 2023)*
+- Mentored newcomers in Python, statistical analysis, and data science fundamentals
+- Organized ML & data visualization workshops for 50+ participants
 
-* Member - Data Science Circle, CAT Reloaded, $\mu$
-    * Member $| \ Nov \ 2022 - Feb \ 2024$
-    * Supervisor $| \ Nov \ 2022 - Nov \ 2023$
+**CAT Data Science Circle Supervisor** — CAT Reloaded | *Nov 2022 – Oct 2023*
+- Directed a 5-member data science team through mentorship in Python, ML, and data visualization
 
-# Training and Workshops 🚀
-* Huawei Certified ICT Associate Program, National Communications Institute (NTI), $Jul - Aug \ 2022$
-* Software Engineering Hackathon, Orange Digital Center - Creativa, $\mu$, $Oct \ 29^{th} - Nov \ 4^{th}, 2022$
-* Fundamentals of Deep Learning, IEEE American University in Cairo - NVIDIA, $Nov \ 9^{th} - 10^{th}, 2022$
-* Robotics Winter Training, ITI Mansoura, $Jan \ 29^{th} - Feb \ 9^{th}, 2023$
-* Computer Vision Summer Training, ITI Mansoura, $Jul \ 15^{th} - Sep \ 15^{th}, 2024$
+***
 
-# Key Skills 💻
-* Proficient in Python, Tableau, Predictive Modeling, Artificial Intelligence (AI), data analysis, and statistical analysis.
-* Strong understanding of computer engineering principles, including hardware design, software development, and control systems.
-* Familiarity with programming languages like C/C++, C#, and SQL, as well as artificial intelligence algorithms and $\LaTeX$ !
+## 🚀 Training & Workshops
 
-# Languages 🌎
-* Arabic: Native
-* English: Professional Working, $76$ on SEPT
-* French: Basic
-* German: Beginner
+| Program | Institution | Period |
+|---------|-------------|--------|
+| Computer Vision Summer Training | ITI Mansoura | Jul – Sep 2024 |
+| Robotics Winter Training | ITI Mansoura | Jan – Feb 2023 |
+| Fundamentals of Deep Learning | IEEE AUC × NVIDIA | Nov 2022 |
+| Software Engineering Hackathon | Orange Digital Center – Creativa | Oct – Nov 2022 |
+| Huawei Certified ICT Associate | NTI | Jul – Aug 2022 |
 
-# Projects 📁
-You can see most of it here actually.
+***
 
-# Contact 📞
-<a href="https://www.linkedin.com/in/Nordin-shafiq/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:nordinmohamed@std.mans.edu.eg"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://facebook.com/nordiniv"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+## 📚 Courses & Certificates
+
+- **Data Analysis Nanodegree** — Udacity / Egypt Forward Initiative, *Jul 2021 – Jan 2022*
+- **Mathematics for Machine Learning Specialization** — Coursera, *Sep 2022*
+- **Business Language Program** — Sprints, *Apr 2022*
+- **Critical Thinking** — LinkedIn, *Nov 2021*
+
+***
+
+## 🌎 Languages
+
+| Language | Proficiency |
+|----------|-------------|
+| Arabic | Native |
+| English | Professional Working |
+| Italian | Beginner |
+| German | Beginner |
+
+***
+
+## 📞 Contact
+
+<a href="https://www.linkedin.com/in/nordin-shafiq/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nordin.shafiq@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
 <a href="https://t.me/nordiniv"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
-Feel free to reach out to me if you have any questions or would like to connect!
+Feel free to reach out if you have any questions or would like to connect!
